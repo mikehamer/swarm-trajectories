@@ -10,3 +10,4 @@ Tested using:
 
 To run the demos, simply run (using python) the two CaseStudy programs.
 
+Further information to the approach will be released once the paper has been accepted.
