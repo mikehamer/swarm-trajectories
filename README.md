@@ -1,6 +1,6 @@
 # Swarm-Trajectories
 
-This repository hosts the demo source code for the paper "Fast generation of collision-free trajectories for robot swarms using GPU acceleration", which is currently under review.
+This repository hosts the demo source code for the paper "Fast generation of collision-free trajectories for robot swarms using GPU acceleration", which is due to be published as open access in the IEEE Access Journal. An early-access version can be found: https://ieeexplore.ieee.org/document/8587164
 
 A very high-level overview of the demos presented here can be found at: http://mikehamer.info/swarm-trajectories/
 Further information to the approach will be released once the paper has been accepted.
